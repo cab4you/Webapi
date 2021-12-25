@@ -1,0 +1,13 @@
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.exe
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.genruntimeconfig.cache

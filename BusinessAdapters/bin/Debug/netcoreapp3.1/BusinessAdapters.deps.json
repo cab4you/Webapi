@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BusinessAdapters/1.0.0": {
+        "dependencies": {
+          "CommanLayer": "1.0.0",
+          "DataLayer": "1.0.0"
+        },
+        "runtime": {
+          "BusinessAdapters.dll": {}
+        }
+      },
+      "CommanLayer/1.0.0": {
+        "runtime": {
+          "CommanLayer.dll": {}
+        }
+      },
+      "DataLayer/1.0.0": {
+        "runtime": {
+          "DataLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BusinessAdapters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommanLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

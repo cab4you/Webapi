@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessAdapterContrac\BusinessAdapterContrac.csproj" />
+    <ProjectReference Include="..\BusinessAdapters\BusinessAdapters.csproj" />
+    <ProjectReference Include="..\CommanLayer\CommanLayer.csproj" />
+    <ProjectReference Include="..\DataLayer\DataLayer.csproj" />
+    <ProjectReference Include="..\Helpers\Helpers.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,13 @@
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\CommanLayer\bin\Debug\netcoreapp3.1\CommanLayer.exe
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\CommanLayer\bin\Debug\netcoreapp3.1\CommanLayer.deps.json
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\CommanLayer\bin\Debug\netcoreapp3.1\CommanLayer.runtimeconfig.json
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\CommanLayer\bin\Debug\netcoreapp3.1\CommanLayer.runtimeconfig.dev.json
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\CommanLayer\bin\Debug\netcoreapp3.1\CommanLayer.dll
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\CommanLayer\bin\Debug\netcoreapp3.1\CommanLayer.pdb
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\CommanLayer\obj\Debug\netcoreapp3.1\CommanLayer.csprojAssemblyReference.cache
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\CommanLayer\obj\Debug\netcoreapp3.1\CommanLayer.csproj.CoreCompileInputs.cache
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\CommanLayer\obj\Debug\netcoreapp3.1\CommanLayer.AssemblyInfoInputs.cache
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\CommanLayer\obj\Debug\netcoreapp3.1\CommanLayer.AssemblyInfo.cs
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\CommanLayer\obj\Debug\netcoreapp3.1\CommanLayer.dll
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\CommanLayer\obj\Debug\netcoreapp3.1\CommanLayer.pdb
+E:\Virendar Project\cabwebApi-main\cabwebApi-main\cabApi\CommanLayer\obj\Debug\netcoreapp3.1\CommanLayer.genruntimeconfig.cache
